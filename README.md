@@ -1,2 +1,3 @@
 # Customer-Churn-Prediction-
 Machine Learning
+Designed and implemented a machine learning model to predict customer churn based on behavioral and transactional data. Performed extensive exploratory data analysis (EDA) to uncover key patterns influencing churn. Applied data preprocessing techniques including handling missing values, encoding categorical features, and feature scaling. Built and evaluated multiple classification models (e.g., Logistic Regression, Random Forest, XGBoost) and optimized performance using hyperparameter tuning. Addressed class imbalance using resampling techniques such as SMOTE to improve recall on minority churn cases. Presented findings through data visualizations and actionable business insights to support decision-making.
